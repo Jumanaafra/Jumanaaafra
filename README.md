@@ -1,66 +1,79 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=42&duration=2800&pause=1000&color=64143F&center=true&vCenter=true&width=850&lines=S+JUMANA+AFRA;FULL+STACK+DEVELOPER;AI+%7C+WEB+%7C+AUTOMATION+%7C+CLOUD" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=2200&pause=700&color=64143F&center=true&vCenter=true&width=850&lines=S+JUMANA+AFRA;FULL+STACK+DEVELOPER;AI+%C2%B7+WEB+%C2%B7+AUTOMATION+%C2%B7+CLOUD" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=64143F&height=100&section=header&text=&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=64143F&height=90&section=header" />
 
-<p>
-  <strong>Building scalable web applications and intelligent systems</strong><br>
-  <strong>that solve real-world problems and create meaningful impact.</strong>
-</p>
+<br>
 
-<p>
+<img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-64143F?style=for-the-badge&labelColor=3B0C27" />
+<img src="https://img.shields.io/badge/AI%20%7C%20WEB%20%7C%20AUTOMATION%20%7C%20CLOUD-B85C83?style=for-the-badge&labelColor=64143F" />
+
+<br><br>
+
+<i>Building scalable web applications and intelligent systems that solve real-world problems and create meaningful impact.</i>
+
+<br><br>
+
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-64143F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-64143F?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/jumana-afra/">
-<img src="https://img.shields.io/badge/LINKEDIN-B85C83?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-B85C83?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/Jumanaaafra">
-<img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</p>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=64143F&height=3" />
 
 </div>
 
 ---
 
-## 👩🏻‍💻 ABOUT ME
-
 <table>
 <tr>
-
 <td width="35%" align="center">
 
-<img src="https://raw.githubusercontent.com/Jumanaaafra/Jumanaaafra/main/assets/jumana-afra.png" width="230"/>
+<img src="./final2.png" width="280" alt="S Jumana Afra" />
 
 <br>
 
-<img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPER-64143F?style=for-the-badge"/>
+### FULL STACK DEVELOPER
 
-<br><br>
+MERN · Next.js · Cloud
 
-**MERN · Next.js · Cloud**
+### AI & AUTOMATION
+
+Agent Workflows · LLMs
+
+### HARDWARE + VISION
+
+Raspberry Pi · Computer Vision
 
 </td>
 
 <td width="65%" valign="top">
 
-I'm a **Full Stack Developer** specializing in **MERN, Next.js and cloud deployments**. I enjoy transforming complex ideas into scalable web applications and intelligent systems powered by AI and automation.
+## 👩🏻‍💻 About Me
 
-- 🚀 Production-ready web applications
-- 🤖 AI agents & intelligent automation
-- ☁️ Cloud platforms, APIs & deployments
-- 🧠 AI, computer vision & intelligent systems
-- 🎨 Clean and responsive digital experiences
-- 🔧 End-to-end application development
+I'm a **Full Stack Developer** specializing in the **MERN stack, Next.js, and cloud deployments**. I enjoy transforming complex ideas into scalable, high-performance web applications and intelligent systems powered by AI and automation.
+
+- 🚀 Building production-ready **web applications and business platforms**
+- 🤖 Exploring **AI agents and intelligent automation workflows**
+- ☁️ Working with **cloud platforms, APIs, databases, and modern deployment workflows**
+- 📟 Exploring the intersection of **software, hardware, and computer vision**
+- 🎨 Passionate about creating **clean, responsive and engaging digital experiences**
+- 🔧 Comfortable taking projects **from database design to deployed UI**
+- 🌱 Continuously improving **system design, cloud architecture and modern development practices**
 
 </td>
-
 </tr>
 </table>
 
@@ -70,11 +83,8 @@ I'm a **Full Stack Developer** specializing in **MERN, Next.js and cloud deploym
 
 # 🛠️ TECH ARSENAL
 
-</div>
-
 <table>
 <tr>
-
 <td width="50%" align="center">
 
 ### 🎨 FRONTEND
@@ -98,16 +108,18 @@ React · Next.js · JavaScript · TypeScript
 Node.js · Express · MongoDB · PostgreSQL · SQLite
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" align="center">
 
 ### ☁️ CLOUD & SERVICES
 
 <img src="https://skillicons.dev/icons?i=aws,firebase,supabase" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
 
 <br>
 
@@ -117,7 +129,7 @@ AWS · Firebase · Supabase · Cloudinary
 
 <td width="50%" align="center">
 
-### 🔧 DEVELOPMENT TOOLS
+### 🛠️ DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode,figma" />
 
@@ -126,21 +138,22 @@ AWS · Firebase · Supabase · Cloudinary
 Python · Git · GitHub · VS Code · Figma
 
 </td>
-
 </tr>
 </table>
+
+</div>
 
 ---
 
 <div align="center">
 
-# 🤖 AI / AUTOMATION
+# 🤖 AI / AUTOMATION STACK
 
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-171717?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make.com-6D3AFF?style=for-the-badge&logo=make&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Make.com-6D3AFF?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 
 </div>
 
@@ -150,74 +163,84 @@ Python · Git · GitHub · VS Code · Figma
 
 # ⭐ FEATURED PROJECTS
 
-<p>
 A selection of projects combining full-stack development, AI, automation and modern digital experiences.
-</p>
-
-</div>
 
 <table>
 <tr>
 
 <td width="33%" valign="top" align="center">
 
-<img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format&fit=crop&q=80" width="100%" height="180"/>
+<img src="https://images.unsplash.com/photo-1564501049412-61c2a3083791?auto=format&fit=crop&w=900&q=80" width="100%" height="220" alt="JOJO Resort" />
 
-### 01 · JOJO RESORT
+<h3>01 · JOJO RESORT</h3>
 
-**Premium Resort Website**
+<b>Premium Resort Website</b>
 
-A luxury resort experience featuring elegant UI, room presentation, gallery and booking interaction.
+<p>
+A premium resort website focused on elegant UI, room presentation, gallery experience and modern booking interaction.
+</p>
 
-`Next.js` `MongoDB`  
-`Tailwind CSS` `Node.js`
-
+<code>Next.js</code>
+<code>MongoDB</code>
 <br>
+<code>Tailwind CSS</code>
+<code>Node.js</code>
 
-<a href="YOUR_JOJO_RESORT_URL">
-<img src="https://img.shields.io/badge/LIVE_DEMO-64143F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<br><br>
+
+<a href="https://jo-jo-resort.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-64143F?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-<img src="https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80" width="100%" height="180"/>
+<img src="./glass.webp" width="100%" height="220" alt="B-Smart Glass Aura Vision" />
 
-### 02 · B-SMART GLASS
+<h3>02 · B-SMART GLASS</h3>
 
-**Aura Vision**
+<b>Aura Vision</b>
 
-AI-powered assistive smart glass designed for navigation, object detection and voice assistance.
+<p>
+AI-powered assistive smart glass designed to support visually impaired users with navigation, object detection and voice assistance.
+</p>
 
-`MERN` `OpenAI API`  
-`Raspberry Pi` `WebRTC`
-
+<code>MERN</code>
+<code>OpenAI API</code>
 <br>
+<code>Raspberry Pi</code>
+<code>WebRTC</code>
+
+<br><br>
 
 <a href="https://b-smart-glass-aura-vision.vercel.app/">
-<img src="https://img.shields.io/badge/LIVE_DEMO-64143F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/LIVE_DEMO-64143F?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-<img src="https://images.unsplash.com/photo-1558655146-d09347e92766?w=800&auto=format&fit=crop&q=80" width="100%" height="180"/>
+<img src="./dp%202.png" width="100%" height="220" alt="Cinematic Portfolio" />
 
-### 03 · CINEMATIC PORTFOLIO
+<h3>03 · CINEMATIC PORTFOLIO</h3>
 
-**Digital Experience**
+<b>Cinematic Animated Digital Experience</b>
 
-An interactive developer portfolio featuring cinematic animation, smooth scrolling and modern UI.
+<p>
+An interactive developer portfolio featuring cinematic animations, smooth scrolling and modern UI interactions.
+</p>
 
-`Next.js` `Framer Motion`  
-`Tailwind CSS`
-
+<code>Next.js</code>
+<code>Framer Motion</code>
 <br>
+<code>Tailwind CSS</code>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/LIVE_DEMO-64143F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<br><br>
+
+<a href="https://mohamed-nazeer.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE_DEMO-64143F?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </td>
@@ -225,13 +248,9 @@ An interactive developer portfolio featuring cinematic animation, smooth scrolli
 </tr>
 </table>
 
----
-
-<div align="center">
-
-# 🏆 ACHIEVEMENTS
-
 </div>
+
+---
 
 <table>
 <tr>
@@ -240,7 +259,7 @@ An interactive developer portfolio featuring cinematic animation, smooth scrolli
 
 ### 🏅 STATE LEVEL SELECTED
 
-Technical project selected at **State Level** in a technical competition.
+My project was selected at the **State Level** in a technical competition.
 
 </td>
 
@@ -261,14 +280,19 @@ Recognized as a **Top Performer** for exceptional performance and contribution.
 
 # 💻 DEVELOPMENT FOCUS
 
-### BUILD · INTEGRATE · AUTOMATE · DEPLOY
+### Building · Integrating · Automating · Deploying
 
-| | Focus |
-|---|---|
-| 🚀 | **Full Stack Development** · MERN · Next.js · Node.js |
-| 🤖 | **AI & Automation** · Gemini · OpenAI · n8n · Make |
-| ☁️ | **Cloud & Infrastructure** · AWS · Firebase · Supabase |
-| 👁️ | **Hardware & Vision** · Raspberry Pi · Computer Vision |
+**FULL STACK DEVELOPMENT**  
+MERN · Next.js · Node.js · Databases
+
+**AI & AUTOMATION**  
+Gemini · OpenAI · n8n · Make.com
+
+**CLOUD & INFRASTRUCTURE**  
+AWS · Firebase · Supabase · Cloudinary
+
+**HARDWARE & VISION**  
+Raspberry Pi · Computer Vision
 
 </div>
 
@@ -281,33 +305,23 @@ Recognized as a **Top Performer** for exceptional performance and contribution.
 ### Let's build something impactful together.
 
 <a href="https://www.linkedin.com/in/jumana-afra/">
-<img src="https://img.shields.io/badge/LINKEDIN-64143F?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-64143F?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/PORTFOLIO-B85C83?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-B85C83?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://github.com/Jumanaaafra">
-<img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 &nbsp;
-
-<a href="mailto:jumanaafra.dev@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-8B3A68?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:jumanaafra301@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-8B3A68?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
 
-**Code with purpose · Build with passion · Automate the future**
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=64143F&height=100&section=footer&animation=fadeIn" width="100%"/>
+<b>Code with purpose. · Build with passion. · Automate the future.</b>
 
 </div>
