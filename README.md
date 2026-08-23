@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-B85C83?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/Jumanaaafra">
+<a href="https://github.com/Jumanaafra">
 <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -312,7 +312,7 @@ Raspberry Pi · Computer Vision
 <img src="https://img.shields.io/badge/PORTFOLIO-B85C83?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/Jumanaaafra">
+<a href="https://github.com/Jumanaafra">
 <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
